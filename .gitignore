@@ -1,0 +1,5 @@
+# Dirs
+build/
+out/
+
+*.dasm
